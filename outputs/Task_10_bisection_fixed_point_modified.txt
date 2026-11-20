@@ -1,0 +1,6 @@
+Bisection break-even quantity: 658.7478 shirts in 38 steps
+Fixed-point break-even quantity: 658.7478 shirts in 10 iterations
+Profit at the root: KSh 0.000000
+Shirts to sell to make a profit: 659
+Profit at 600 shirts: KSh -4,348.47
+Profit at 800 shirts: KSh 10,514.72

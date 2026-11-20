@@ -1,0 +1,6 @@
+Solver success: True
+Basic reproduction number R0 = beta/gamma = 4.0
+Peak: 405 students sick at the same time, on day 21.8
+Total ever infected by day 120: 980 of 1000
+Never infected: 20
+Conservation check, max |S+I+R-N| = 4.55e-13

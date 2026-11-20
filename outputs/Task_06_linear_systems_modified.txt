@@ -1,0 +1,7 @@
+14-seater matatus: 10
+33-seater minibuses: 6
+51-seater buses: 4
+Verification A @ solution: [542. 950.  44.]
+Residual norm: 0.0
+Determinant of A: -170.0
+Condition number of A: 353.8

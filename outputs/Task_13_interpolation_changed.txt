@@ -1,0 +1,2 @@
+Linear estimate at 12.5: 25.25 C
+Cubic estimate at 12.5: 25.34 C

@@ -1,0 +1,7 @@
+Mean commute time: 69.5 min   Standard deviation: 15.9 min
+Estimated probability of being late: 7.87%
+95% confidence interval: 7.71% to 8.04%
+Late mornings: 7873 out of 100000
+Time to allow to be on time 95% of mornings: 98.9 min
+Probability of being late if there is no jam: 0.21%
+Probability of being late if there is a jam:  30.85%

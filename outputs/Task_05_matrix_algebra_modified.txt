@@ -1,0 +1,15 @@
+Combined matrix M = T @ R @ S:
+ [[ 1.299 -0.75   4.   ]
+ [ 0.75   1.299  2.   ]
+ [ 0.     0.     1.   ]]
+Original points:
+ [[0.  0. ]
+ [2.  0. ]
+ [1.  1.5]]
+Transformed points:
+ [[4.     2.    ]
+ [6.5981 3.5   ]
+ [4.174  4.6986]]
+Determinant of the 2x2 linear part: 2.2500
+Original area: 1.5000   Transformed area: 3.3750
+Inverse matrix recovers the original points: True

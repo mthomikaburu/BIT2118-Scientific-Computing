@@ -1,0 +1,4 @@
+h = 2.0 months: fish at month 12 = 1341.9, at month 24 = 1998.5, largest error = 278.9 fish
+h = 0.5 months: fish at month 12 = 1514.1, at month 24 = 1993.3, largest error = 72.1 fish
+Exact: fish at month 12 = 1556.5, at month 24 = 1991.5
+Population reaches K/2 = 1000 (fastest growth) at month 8.41

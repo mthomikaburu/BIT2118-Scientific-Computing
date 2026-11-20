@@ -1,0 +1,5 @@
+1975: linear = 13.54 M   cubic spline = 13.26 M
+1994: linear = 25.05 M   cubic spline = 24.77 M
+2014: linear = 43.10 M   cubic spline = 43.52 M
+Hidden 1999 census (true 28.7 M): linear = 30.00 M, cubic = 29.47 M
+Cubic spline EXTRAPOLATED to 2029: 50.77 M (treat with caution)

@@ -1,0 +1,6 @@
+Optimization success: True
+Maize: 74.29 kg   Soya meal: 25.71 kg
+Protein: 18.00%   Energy: 3119 kcal/kg
+Minimum cost: KSh 5,785.71 per 100 kg  (KSh 57.86 per kg)
+linprog check: maize = 74.29 kg, soya = 25.71 kg, cost = KSh 5,785.71
+50/50 mix: protein 26.5%, cost KSh 7,000.00 -> optimum saves KSh 1,214.29

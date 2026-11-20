@@ -1,0 +1,12 @@
+t=   0s  downloaded=  0.0 MB  speed= 12.40 Mbps
+t=   2s  downloaded=  3.1 MB  speed= 16.80 Mbps
+t=   4s  downloaded=  8.4 MB  speed= 25.60 Mbps
+t=   6s  downloaded= 15.9 MB  speed= 32.40 Mbps
+t=   8s  downloaded= 24.6 MB  speed= 34.20 Mbps
+t=  10s  downloaded= 33.0 MB  speed= 29.20 Mbps
+t=  12s  downloaded= 39.2 MB  speed= 19.60 Mbps
+t=  14s  downloaded= 42.8 MB  speed=  9.80 Mbps
+t=  16s  downloaded= 44.1 MB  speed=  5.20 Mbps
+Peak speed: 34.20 Mbps at t=8s
+Average speed over the whole download: 22.05 Mbps
+Forward-difference speeds (Mbps): [12.4 21.2 30.  34.8 33.6 24.8 14.4  5.2]

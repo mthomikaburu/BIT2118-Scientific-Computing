@@ -1,0 +1,7 @@
+First five fees (KSh): [100.   100.   100.    79.02 100.  ]
+Total fees collected: KSh 85,763,800.91
+Transactions hitting the KSh 100 cap: 71.5%
+Loop and vectorized results agree: True
+Loop time: 0.1300 s
+Vectorized time: 0.0029 s
+Approximate speed-up: 44.4x

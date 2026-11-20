@@ -1,0 +1,6 @@
+Distance, trapezoidal rule:    1336.1 m
+Distance, Simpson's rule:      1340.7 m
+Trapezoid vs Simpson difference: 4.6 m
+Average speed: 40.2 km/h
+Trapezoid with readings every 20 s: 1322.2 m
+Simpson with readings every 20 s:   1351.9 m

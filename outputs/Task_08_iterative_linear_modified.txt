@@ -1,0 +1,7 @@
+Strictly diagonally dominant: True
+Farm       outside demand=  50.0  required output: Jacobi= 100.136  Gauss-Seidel= 100.136  direct= 100.136
+Mill       outside demand=  30.0  required output: Jacobi=  97.526  Gauss-Seidel=  97.526  direct=  97.526
+Bakery     outside demand= 120.0  required output: Jacobi= 139.674  Gauss-Seidel= 139.674  direct= 139.674
+Transport  outside demand=  40.0  required output: Jacobi=  77.614  Gauss-Seidel=  77.614  direct=  77.614
+Jacobi iterations: 22
+Gauss-Seidel iterations: 15

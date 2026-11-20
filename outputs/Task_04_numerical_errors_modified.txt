@@ -1,0 +1,7 @@
+float32 running sum    total =    100958.343750   abs error = 9.583438e+02   rel error = 9.583e-03
+float64 running sum    total =    100000.000001   abs error = 1.332883e-06   rel error = 1.333e-11
+math.fsum              total =    100000.000000   abs error = 0.000000e+00   rel error = 0.000e+00
+Decimal                total =    100000.000000   abs error = 0.000000e+00   rel error = 0.000e+00
+integer cents          total =    100000.000000   abs error = 0.000000e+00   rel error = 0.000e+00
+float64 total == 100000.0 ? False
+np.isclose(float64 total, 100000.0) ? True

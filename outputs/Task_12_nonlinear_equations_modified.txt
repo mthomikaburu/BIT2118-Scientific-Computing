@@ -1,0 +1,16 @@
+Initial guess: [3.0, 3.0]
+Phone position (km): [3.75     3.307189]
+Residuals: [0. 0.]
+Converged: True
+
+Initial guess: [3.0, -3.0]
+Phone position (km): [ 3.75     -3.307189]
+Residuals: [0. 0.]
+Converged: True
+
+Candidate [3.75  3.307] is 3.70 km from tower 3 (measured 3.7 km)
+Candidate [ 3.75  -3.307] is 10.31 km from tower 3 (measured 3.7 km)
+
+Roots of -4.905t^2 + 15t + 20: [ 4.0619 -1.0038]
+Ball hits the ground after 4.062 s (the negative root is not physical)
+Check h(t) at landing: -1.07e-14 m

@@ -1,0 +1,20 @@
+L =
+ [[ 1.      0.      0.    ]
+ [-0.3333  1.      0.    ]
+ [ 0.     -0.5455  1.    ]]
+U =
+ [[ 15.      -5.       0.    ]
+ [  0.      18.3333 -10.    ]
+ [  0.       0.      19.5455]]
+P @ L @ U rebuilds R: True
+
+Test 1: 12 V on loop 1
+  Loop currents (A): [0.893  0.2791 0.1116]   residual norm: 1.9e-15
+Test 2: 12 V loop 1, 5 V loop 3
+  Loop currents (A): [0.9395 0.4186 0.3674]   residual norm: 2.2e-15
+Test 3: 24 V on loop 1
+  Loop currents (A): [1.786  0.5581 0.2233]   residual norm: 3.7e-15
+Test 4: 9 V on loop 2
+  Loop currents (A): [0.2093 0.6279 0.2512]   residual norm: 1.9e-15
+
+Hand-written Gaussian elimination, Test 1: [0.893  0.2791 0.1116]

@@ -1,0 +1,8 @@
+Dominant eigenvalue: 1.000000
+Power iteration stopped after 39 iterations
+Home     PageRank (eig) = 0.4026   (power iteration) = 0.4026
+Portal   PageRank (eig) = 0.2793   (power iteration) = 0.2793
+Courses  PageRank (eig) = 0.1441   (power iteration) = 0.1441
+Fees     PageRank (eig) = 0.1441   (power iteration) = 0.1441
+Contact  PageRank (eig) = 0.0300   (power iteration) = 0.0300
+Both methods agree: True

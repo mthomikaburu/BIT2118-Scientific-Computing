@@ -1,0 +1,7 @@
+Exponential model: users = 420.2 * exp(0.1946 * month)
+Parameter uncertainty: a +/- 4.4, b +/- 0.0016
+Monthly growth rate: 21.5%
+Doubling time: 3.56 months
+RMSE exponential: 8.8 users
+RMSE straight line: 93.6 users
+Forecast for month 12: exponential = 4339, straight line = 2669

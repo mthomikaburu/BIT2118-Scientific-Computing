@@ -1,0 +1,19 @@
+Newton-Raphson
+  iteration 1: r = 0.0367856466
+  iteration 2: r = 0.0374778630
+  iteration 3: r = 0.0374799538
+  iteration 4: r = 0.0374799538
+  iteration 5: r = 0.0374799538
+Secant
+  iteration 1: r = 0.0389530771
+  iteration 2: r = 0.0373989836
+  iteration 3: r = 0.0374804723
+  iteration 4: r = 0.0374799540
+  iteration 5: r = 0.0374799538
+  iteration 6: r = 0.0374799538
+Monthly rate (Newton): 3.7480% in 5 iterations
+Monthly rate (Secant): 3.7480% in 6 iterations
+Check f(root) = -5.46e-11
+Nominal annual rate (12 x monthly): 44.98%
+Effective annual rate: 55.51%
+Total paid: KSh 25,200   Extra over cash price: KSh 5,200

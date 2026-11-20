@@ -1,0 +1,6 @@
+Total energy for the day: 53.2 kWh
+Mean hourly energy: 2.22 kWh
+Peak hour: 17:00 with 4.1 kWh
+Total cost for the day: KSh 1330.00
+Share of energy used in business hours: 81.4%
+Cost of first six hours (KSh): [10.  10.   7.5  7.5  7.5 12.5]
